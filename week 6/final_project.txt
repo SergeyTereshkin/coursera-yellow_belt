@@ -1,0 +1,1 @@
+A final project of the "C++: Yellow Belt" course on Coursera, which is a database with the abitily to add data, to delete and to find data corresponding to a certain condition
